@@ -1,2 +1,2 @@
 # demo
-demo for gibash to github link to repositiory
+demo for gitbash to github link to repositiory
